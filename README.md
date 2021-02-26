@@ -1,4 +1,4 @@
-# Portfolio :wave:
+# Mi Portfolio :wave:
 
 
 ## By Wesley Mbate
@@ -6,7 +6,7 @@
 ## Description
   My Portfolio, a source of tangible evidence of the wide range of knowledge, skills, and dispositions that I have possessed as a growing professional Software Engineer. It also includes my Projects and the contact media to easily and effectively reach out through.
 
-  LINK TO LIVE SITE  https://wess58.github.io/MyPortfolio/ 
+  LINK TO LIVE SITE  https://nicolabs.cl/
 
 
 ### Prerequisites
