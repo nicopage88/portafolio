@@ -1,7 +1,7 @@
 # Mi Portafolio :wave:
 
 
-## Por Nicolàs González
+## Por Nicolás González
 
 ## Descripción
   My Portfolio, una fuente de evidencia tangible de la amplia gama de conocimientos, habilidades y disposiciones que he poseído como ingeniero de software profesional en crecimiento. También incluye mis proyectos y los medios de contacto para comunicarme de forma fácil y eficaz.
